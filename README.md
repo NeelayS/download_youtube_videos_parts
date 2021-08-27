@@ -1,5 +1,6 @@
 # download_youtube_videos
-Bash utility to download desired parts/sections of a video easily using FFmpeg and youtube-dl 
+
+Bash utility to download desired parts/sections of YouTube videos easily using FFmpeg and youtube-dl
 
 ## Pre-requisites
 
